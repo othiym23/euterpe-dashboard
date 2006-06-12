@@ -1,0 +1,313 @@
+AENC:
+  status: UNIMPLEMENTED
+  terse: audio encryption
+
+APIC:
+  status: UNIMPLEMENTED
+  terse: attached picture
+
+COMM:
+  status: UNIMPLEMENTED
+  terse: comments
+
+COMR:
+  status: UNIMPLEMENTED
+  terse: commercial frame
+
+ENCR:
+  status: UNIMPLEMENTED
+  terse: encryption method registration
+
+EQUA:
+  status: UNIMPLEMENTED
+  terse: equalization
+
+ETCO:
+  status: UNIMPLEMENTED
+  terse: event timing codes
+
+GEOB:
+  status: UNIMPLEMENTED
+  terse: general encapsulated object
+
+GRID:
+  status: UNIMPLEMENTED
+  terse: group identification registration
+
+IPLS:
+  status: UNIMPLEMENTED
+  terse: involved people list
+
+LINK:
+  status: UNIMPLEMENTED
+  terse: linked information
+
+MCDI:
+  status: UNIMPLEMENTED
+  terse: music CD identifier
+
+MLLT:
+  status: UNIMPLEMENTED
+  terse: MPEG location lookup table
+
+OWNE:
+  status: UNIMPLEMENTED
+  terse: ownership frame
+
+PRIV:
+  status: UNIMPLEMENTED
+  terse: private frame
+
+PCNT:
+  status: UNIMPLEMENTED
+  terse: play counter
+
+POPM:
+  status: UNIMPLEMENTED
+  terse: popularimeter
+
+POSS:
+  status: UNIMPLEMENTED
+  terse: position synchronisation frame
+
+RBUF:
+  status: UNIMPLEMENTED
+  terse: recommended buffer size
+
+RVAD:
+  status: UNIMPLEMENTED
+  terse: relative volume adjustment
+
+RVRB:
+  status: UNIMPLEMENTED
+  terse: reverb
+
+SYLT:
+  status: UNIMPLEMENTED
+  terse: synchronized lyric / text
+
+SYTC:
+  status: UNIMPLEMENTED
+  terse: synchronized tempo codes
+
+TALB:
+  status: UNIMPLEMENTED
+  terse: album / Movie / show title
+
+TBPM:
+  status: UNIMPLEMENTED
+  terse: BPM (beats per minute)
+
+TCOM:
+  status: UNIMPLEMENTED
+  terse: composer
+
+TCON:
+  status: UNIMPLEMENTED
+  terse: content type
+
+TCOP:
+  status: UNIMPLEMENTED
+  terse: copyright message
+
+TDAT:
+  status: UNIMPLEMENTED
+  terse: date
+
+TDLY:
+  status: UNIMPLEMENTED
+  terse: playlist delay
+
+TENC:
+  status: UNIMPLEMENTED
+  terse: encoded by
+
+TEXT:
+  status: UNIMPLEMENTED
+  terse: lyricist / text writer
+
+TFLT:
+  status: UNIMPLEMENTED
+  terse: file type
+
+TIME:
+  status: UNIMPLEMENTED
+  terse: time
+
+TIT1:
+  status: UNIMPLEMENTED
+  terse: content group description
+
+TIT2:
+  status: UNIMPLEMENTED
+  terse: title / songname / content description
+
+TIT3:
+  status: UNIMPLEMENTED
+  terse: subtitle / description refinement
+
+TKEY:
+  status: UNIMPLEMENTED
+  terse: initial key
+
+TLAN:
+  status: UNIMPLEMENTED
+  terse: language(s)
+
+TLEN:
+  status: UNIMPLEMENTED
+  terse: length
+
+TMED:
+  status: UNIMPLEMENTED
+  terse: media type
+
+TOAL:
+  status: UNIMPLEMENTED
+  terse: original album / movie / show title
+
+TOFN:
+  status: UNIMPLEMENTED
+  terse: original filename
+
+TOLY:
+  status: UNIMPLEMENTED
+  terse: original lyricist(s) / text writer(s)
+
+TOPE:
+  status: UNIMPLEMENTED
+  terse: original artist(s) / performer(s)
+
+TORY:
+  status: UNIMPLEMENTED
+  terse: original release year
+
+TOWN:
+  status: UNIMPLEMENTED
+  terse: file owner / licensee
+
+TPE1:
+  status: UNIMPLEMENTED
+  terse: lead performer(s) / Soloist(s)
+
+TPE2:
+  status: UNIMPLEMENTED
+  terse: band / orchestra / accompaniment
+
+TPE3:
+  status: UNIMPLEMENTED
+  terse: conductor / performer refinement
+
+TPE4:
+  status: UNIMPLEMENTED
+  terse: interpreted, remixed, or otherwise modified by
+
+TPOS:
+  status: UNIMPLEMENTED
+  terse: part of a set
+
+TPUB:
+  status: UNIMPLEMENTED
+  terse: publisher
+
+TRCK:
+  status: UNIMPLEMENTED
+  terse: track number/Position in set
+
+TRDA:
+  status: UNIMPLEMENTED
+  terse: recording dates
+
+TRSN:
+  status: UNIMPLEMENTED
+  terse: internet radio station name
+
+TRSO:
+  status: UNIMPLEMENTED
+  terse: internet radio station owner
+
+TSIZ:
+  status: UNIMPLEMENTED
+  terse: size
+
+TSRC:
+  status: UNIMPLEMENTED
+  terse: ISRC (international standard recording code)
+
+TSSE:
+  status: UNIMPLEMENTED
+  terse: software/Hardware and settings used for encoding
+
+TYER:
+  status: UNIMPLEMENTED
+  terse: year
+
+TXXX:
+  status: UNIMPLEMENTED
+  terse: user defined text information frame
+
+UFID:
+  status: UNIMPLEMENTED
+  terse: unique file identifier
+
+USER:
+  status: UNIMPLEMENTED
+  terse: terms of use
+
+USLT:
+  status: UNIMPLEMENTED
+  terse: unsychronized lyric/text transcription
+
+WCOM:
+  status: UNIMPLEMENTED
+  terse: commercial information
+
+WCOP:
+  status: UNIMPLEMENTED
+  terse: copyright/Legal information
+
+WOAF:
+  status: UNIMPLEMENTED
+  terse: official audio file webpage
+
+WOAR:
+  status: UNIMPLEMENTED
+  terse: official artist/performer webpage
+
+WOAS:
+  status: UNIMPLEMENTED
+  terse: official audio source webpage
+
+WORS:
+  status: UNIMPLEMENTED
+  terse: official internet radio station homepage
+
+WPAY:
+  status: UNIMPLEMENTED
+  terse: payment
+
+WPUB:
+  status: UNIMPLEMENTED
+  terse: publishers official webpage
+
+WXXX:
+  status: UNIMPLEMENTED
+  terse: user defined URL link frame
+
+XDOR:
+  status: COMPLETE
+  terse: date of release (NONSTANDARD)
+  long: >-
+    The date of the release in YYYY-MM-DD format. WARNING: This frame is a
+    non-standard extension created by Apple for use in its iTunes
+    software. No other software is guaranteed to recognize it or preserve
+    it.
+
+XSOP:
+  status: COMPLETE
+  terse: artist sort order (NONSTANDARD)
+  long: >-
+    The sort order for the track artist. WARNING: This frame is a
+    non-standard extension created by Apple for use in its iTunes
+    software. No other software is guaranteed to recognize it or preserve
+    it.

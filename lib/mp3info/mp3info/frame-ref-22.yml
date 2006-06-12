@@ -1,0 +1,251 @@
+BUF:
+  status: UNIMPLEMENTED
+  terse: recommended buffer size
+
+CNT:
+  status: UNIMPLEMENTED
+  terse: play counter
+
+COM:
+  status: UNIMPLEMENTED
+  terse: comments
+
+CRA:
+  status: UNIMPLEMENTED
+  terse: audio encryption
+
+CRM:
+  status: UNIMPLEMENTED
+  terse: encrypted meta frame
+
+ETC:
+  status: UNIMPLEMENTED
+  terse: event timing codes
+
+EQU:
+  status: UNIMPLEMENTED
+  terse: equalization
+
+GEO:
+  status: UNIMPLEMENTED
+  terse: general encapsulated object
+
+IPL:
+  status: UNIMPLEMENTED
+  terse: involved people list
+
+LNK:
+  status: UNIMPLEMENTED
+  terse: linked information
+
+MCI:
+  status: UNIMPLEMENTED
+  terse: music CD identifier
+
+MLL:
+  status: UNIMPLEMENTED
+  terse: MPEG location lookup table
+
+PIC:
+  status: UNIMPLEMENTED
+  terse: attached picture
+
+POP:
+  status: UNIMPLEMENTED
+  terse: popularimeter
+
+REV:
+  status: UNIMPLEMENTED
+  terse: reverb
+
+RVA:
+  status: UNIMPLEMENTED
+  terse: relative volume adjustment
+
+SLT:
+  status: UNIMPLEMENTED
+  terse: synchronized lyric / text
+
+STC:
+  status: UNIMPLEMENTED
+  terse: synced tempo codes
+
+TAL:
+  status: UNIMPLEMENTED
+  terse: album / movie / show title
+
+TBP:
+  status: UNIMPLEMENTED
+  terse: BPM (Beats Per Minute)
+
+TCM:
+  status: UNIMPLEMENTED
+  terse: composer
+
+TCO:
+  status: UNIMPLEMENTED
+  terse: content type
+
+TCR:
+  status: UNIMPLEMENTED
+  terse: copyright message
+
+TDA:
+  status: UNIMPLEMENTED
+  terse: date
+
+TDY:
+  status: UNIMPLEMENTED
+  terse: playlist delay
+
+TEN:
+  status: UNIMPLEMENTED
+  terse: encoded by
+
+TFT:
+  status: UNIMPLEMENTED
+  terse: file type
+
+TIM:
+  status: UNIMPLEMENTED
+  terse: time
+
+TKE:
+  status: UNIMPLEMENTED
+  terse: initial key
+
+TLA:
+  status: UNIMPLEMENTED
+  terse: language(s)
+
+TLE:
+  status: UNIMPLEMENTED
+  terse: length
+
+TMT:
+  status: UNIMPLEMENTED
+  terse: media type
+
+TOA:
+  status: UNIMPLEMENTED
+  terse: original artist(s) / performer(s)
+
+TOF:
+  status: UNIMPLEMENTED
+  terse: original filename
+
+TOL:
+  status: UNIMPLEMENTED
+  terse: original lyricist(s) / text writer(s)
+
+TOR:
+  status: UNIMPLEMENTED
+  terse: original release year
+
+TOT:
+  status: UNIMPLEMENTED
+  terse: original album/movie/show title
+
+TP1:
+  status: UNIMPLEMENTED
+  terse: lead artist(s) / lead performer(s) / soloist(s) / performing group
+
+TP2:
+  status: UNIMPLEMENTED
+  terse: band / orchestra / accompaniment
+
+TP3:
+  status: UNIMPLEMENTED
+  terse: conductor / performer refinement
+
+TP4:
+  status: UNIMPLEMENTED
+  terse: interpreted, remixed, or otherwise modified by
+
+TPA:
+  status: UNIMPLEMENTED
+  terse: part of a set
+
+TPB:
+  status: UNIMPLEMENTED
+  terse: publisher
+
+TRC:
+  status: UNIMPLEMENTED
+  terse: ISRC (International Standard Recording Code)
+
+TRD:
+  status: UNIMPLEMENTED
+  terse: recording dates
+
+TRK:
+  status: UNIMPLEMENTED
+  terse: track number / position in set
+
+TSI:
+  status: UNIMPLEMENTED
+  terse: size
+
+TSS:
+  status: UNIMPLEMENTED
+  terse: software / hardware and settings used for encoding
+
+TT1:
+  status: UNIMPLEMENTED
+  terse: content group description
+
+TT2:
+  status: UNIMPLEMENTED
+  terse: title / songname / content description
+
+TT3:
+  status: UNIMPLEMENTED
+  terse: subtitle / description refinement
+
+TXT:
+  status: UNIMPLEMENTED
+  terse: lyricist / text writer
+
+TXX:
+  status: UNIMPLEMENTED
+  terse: user defined text information frame
+
+TYE:
+  status: UNIMPLEMENTED
+  terse: year
+
+UFI:
+  status: UNIMPLEMENTED
+  terse: unique file identifier
+
+ULT:
+  status: UNIMPLEMENTED
+  terse: unsychronized lyric / text transcription
+
+WAF:
+  status: UNIMPLEMENTED
+  terse: official audio file webpage
+
+WAR:
+  status: UNIMPLEMENTED
+  terse: official artist / performer webpage
+
+WAS:
+  status: UNIMPLEMENTED
+  terse: official audio source webpage
+
+WCM:
+  status: UNIMPLEMENTED
+  terse: commercial information
+
+WCP:
+  status: UNIMPLEMENTED
+  terse: copyright/Legal information
+
+WPB:
+  status: UNIMPLEMENTED
+  terse: publishers official webpage
+
+WXX:
+  status: UNIMPLEMENTED
+  terse: user defined URL link frame
