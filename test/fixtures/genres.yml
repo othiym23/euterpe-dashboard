@@ -1,5 +1,7 @@
-# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
-first:
+postpunk:
   id: 1
+  name: Post Punk
+
 another:
   id: 2
+  name: Political Rap

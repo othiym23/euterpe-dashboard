@@ -1,5 +1,322 @@
-# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
-first:
+bang_track_01:
   id: 1
-another:
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Formed A Band
+  release_date: "2005"
+  sequence: 1
+  media_path_id: 1
+
+bang_track_02:
   id: 2
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: My Little Brother
+  release_date: "2005"
+  sequence: 2
+  media_path_id: 2
+
+bang_track_03:
+  id: 3
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Emily Kane
+  release_date: "2005"
+  sequence: 3
+  media_path_id: 3
+
+bang_track_04:
+  id: 4
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Rusted Guns Of Milan
+  release_date: "2005"
+  sequence: 4
+  media_path_id: 4
+
+bang_track_05:
+  id: 5
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Modern Art
+  release_date: "2005"
+  sequence: 5
+  media_path_id: 5
+
+bang_track_06:
+  id: 6
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Good Weekend
+  release_date: "2005"
+  sequence: 6
+  media_path_id: 6
+
+bang_track_07:
+  id: 7
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Bang Bang Rock & Roll
+  release_date: "2005"
+  sequence: 7
+  media_path_id: 7
+
+bang_track_08:
+  id: 8
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Fight!
+  release_date: "2005"
+  sequence: 8
+  media_path_id: 8
+
+bang_track_09:
+  id: 9
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Moving To L.A.
+  release_date: "2005"
+  sequence: 9
+  media_path_id: 9
+
+bang_track_10:
+  id: 10
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Bad Weekend
+  release_date: "2005"
+  sequence: 10
+  media_path_id: 10
+
+bang_track_11:
+  id: 11
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: Stand Down
+  release_date: "2005"
+  sequence: 11
+  media_path_id: 11
+
+bang_track_12:
+  id: 12
+  artist_name: Art Brut
+  disc_id: 1
+  encoder: "Exact Audio Copy (secure mode) / lame 3.96.1 --alt-preset standard / ::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 1
+  name: 18,000 Lira
+  release_date: "2005"
+  sequence: 12
+  media_path_id: 12
+
+devil_track_01:
+  id: 13
+  media_path_id: 13
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Intro
+  release_date: "1989"
+  sequence: 1
+
+devil_track_02:
+  id: 14
+  media_path_id: 14
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Scarface Groove
+  release_date: "1989"
+  sequence: 2
+
+devil_track_03:
+  id: 15
+  media_path_id: 15
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: This Is A Test
+  release_date: "1989"
+  sequence: 3
+
+devil_track_04:
+  id: 16
+  media_path_id: 16
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Panther Power
+  release_date: "1989"
+  sequence: 4
+
+devil_track_05:
+  id: 17
+  media_path_id: 17
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Break The Grip Of Shame
+  release_date: "1989"
+  sequence: 5
+
+devil_track_06:
+  id: 18
+  media_path_id: 18
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Warning
+  release_date: "1989"
+  sequence: 6
+
+devil_track_07:
+  id: 19
+  media_path_id: 19
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Ebony
+  release_date: "1989"
+  sequence: 7
+
+devil_track_08:
+  id: 20
+  media_path_id: 20
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Brutal
+  release_date: "1989"
+  sequence: 8
+
+devil_track_09:
+  id: 21
+  media_path_id: 21
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: On The Prowl
+  release_date: "1989"
+  sequence: 9
+
+devil_track_10:
+  id: 22
+  media_path_id: 22
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: The Devil Made Me Do It
+  release_date: "1989"
+  sequence: 10
+  sort_order: "Devil Made Me Do It, The"
+
+devil_track_11:
+  id: 23
+  media_path_id: 23
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: The Hate That Hate Made
+  release_date: "1989"
+  sequence: 11
+  sort_order: "Hate That Hate Made, The"
+
+devil_track_12:
+  id: 24
+  media_path_id: 24
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Mellow Madness
+  release_date: "1989"
+  sequence: 12
+
+devil_track_13:
+  id: 25
+  media_path_id: 25
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: I Call Him Mad
+  release_date: "1989"
+  sequence: 13
+
+devil_track_14:
+  id: 26
+  media_path_id: 26
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Escape From Babylon
+  release_date: "1989"
+  sequence: 14
+
+devil_track_15:
+  id: 27
+  media_path_id: 27
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Wretched
+  release_date: "1989"
+  sequence: 15
+
+devil_track_16:
+  id: 28
+  media_path_id: 28
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: Break The Grip Of Shame (The Final Call)
+  release_date: "1989"
+  sequence: 16
+
+devil_track_17:
+  id: 29
+  media_path_id: 29
+  artist_name: Paris
+  disc_id: 2
+  encoder: "::AOAIOXXYSZ:: encoding tools, v1"
+  genre_id: 2
+  name: The Devil Made Me Do It
+  release_date: "1989"
+  remix: Poach A Pig mix
+  sequence: 17
+  sort_order: "Devil Made Me Do It, The"

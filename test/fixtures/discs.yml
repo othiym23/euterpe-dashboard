@@ -1,5 +1,11 @@
-# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
-first:
+bang_disc:
   id: 1
-another:
+  album_id: 1
+  number: 1
+  number_of_tracks: 12
+
+devil_disc:
   id: 2
+  album_id: 2
+  number: 1
+  number_of_tracks: 0

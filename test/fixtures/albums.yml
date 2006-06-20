@@ -1,5 +1,16 @@
-# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
-first:
+bang_bang:
   id: 1
-another:
+  name: Bang Bang Rock & Roll
+  artist_name: Art Brut
+  genre_id: 1
+  number_of_discs: 1
+  release_date: "2005"
+
+devil:
   id: 2
+  name: The Devil Made Me Do It
+  sort_order: "Devil Made Me Do It, The"
+  artist_name: Paris
+  genre_id: 2
+  number_of_discs: 1
+  release_date: "1989"

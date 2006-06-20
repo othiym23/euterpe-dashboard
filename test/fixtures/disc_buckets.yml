@@ -1,0 +1,11 @@
+bang_bucket:
+  id: 1
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll"
+
+devil_bucket:
+  id: 29
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It"

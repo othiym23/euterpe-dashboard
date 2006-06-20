@@ -2,6 +2,8 @@ class CreateAlbums < ActiveRecord::Migration
   def self.up
     create_table :albums do |t|
       t.column :name, :string
+      t.column :subtitle, :string
+      t.column :version_name, :string
       t.column :sort_order, :string
       t.column :artist_name, :string
       t.column :number_of_discs, :integer

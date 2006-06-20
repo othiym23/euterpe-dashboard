@@ -4,7 +4,7 @@ class CreateArtists < ActiveRecord::Migration
       t.column :name, :string
     end
 
-    create_table :artists_tracks do |t|
+    create_table :artists_tracks, :id => false do |t|
       t.column :artist_id, :integer
       t.column :track_id, :integer
     end

@@ -1,5 +1,173 @@
-# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
-first:
+bang_path_01:
   id: 1
-another:
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 01 - Formed A Band.mp3"
+
+bang_path_02:
   id: 2
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 02 - My Little Brother.mp3"
+
+bang_path_03:
+  id: 3
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 03 - Emily Kane.mp3"
+
+bang_path_04:
+  id: 4
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 04 - Rusted Guns Of Milan.mp3"
+
+bang_path_05:
+  id: 5
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 05 - Modern Art.mp3"
+
+bang_path_06:
+  id: 6
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 06 - Good Weekend.mp3"
+
+bang_path_07:
+  id: 7
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 07 - Bang Bang Rock & Roll.mp3"
+
+bang_path_08:
+  id: 8
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 08 - Fight!.mp3"
+
+bang_path_09:
+  id: 9
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 09 - Moving To L.A..mp3"
+
+bang_path_10:
+  id: 10
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 10 - Bad Weekend.mp3"
+
+bang_path_11:
+  id: 11
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 11 - Stand Down.mp3"
+
+bang_path_12:
+  id: 12
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Art Brut/Bang Bang Rock & Roll/Art Brut - Bang Bang Rock & Roll - 12 - 18,000 Lira.mp3"
+
+devil_path_01:
+  id: 13
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 01 - Intro.mp3"
+
+devil_path_02:
+  id: 14
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 02 - Scarface Groove.mp3"
+
+devil_path_03:
+  id: 15
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 03 - This is a Test.mp3"
+
+devil_path_04:
+  id: 16
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 04 - Panther Power.mp3"
+
+devil_path_05:
+  id: 17
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 05 - Break the Grip of Shame.mp3"
+
+devil_path_06:
+  id: 18
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 06 - Warning.mp3"
+
+devil_path_07:
+  id: 19
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 07 - Ebony.mp3"
+
+devil_path_08:
+  id: 20
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 08 - Brutal.mp3"
+
+devil_path_09:
+  id: 21
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 09 - On the Prowl.mp3"
+
+devil_path_10:
+  id: 22
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 10 - The Devil Made Me Do It.mp3"
+
+devil_path_11:
+  id: 23
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 11 - The Hate That Hate Made.mp3"
+
+devil_path_12:
+  id: 24
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 12 - Mellow Madness.mp3"
+
+devil_path_13:
+  id: 25
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 13 - I Call Him Mad.mp3"
+
+devil_path_14:
+  id: 26
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 14 - Escape From Babylon.mp3"
+
+devil_path_15:
+  id: 27
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 15 - Wretched.mp3"
+
+devil_path_16:
+  id: 28
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 16 - Break the Grip of Shame (The Final Call).mp3"
+
+devil_path_17:
+  id: 29
+  file_created_on: <%= 5.days.ago.to_s :db %>
+  file_updated_on: <%= 4.days.ago.to_s :db %>
+  path: "/data/music/holding/pending/Paris/The Devil Made Me Do It/Paris - The Devil Made Me Do It - 17 - The Devil Made Me Do It (Poach A Pig Mix).mp3"
