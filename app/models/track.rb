@@ -1,7 +1,7 @@
 module Euterpe
   module Dashboard
     class Track < ActiveRecord::Base
-      belongs_to :disc
+      belongs_to :disc, :include => :album
       belongs_to :genre
       belongs_to :media_path
       

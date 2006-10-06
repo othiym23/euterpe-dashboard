@@ -13,7 +13,7 @@ module Euterpe
               
               bucket
             else
-              bucket.delete
+              bucket.destroy
               nil
             end
           else

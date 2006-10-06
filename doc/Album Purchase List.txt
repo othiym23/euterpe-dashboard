@@ -1,14 +1,11 @@
-* AFX: _Chosen Lords_
 * Agoraphobic Nosebleed: _Bestial Machinery_
 * Alarm Will Sound: _Acoustica: Alarm Will Sound Performs Aphex Twin[1]_
 * Animal Collective: _Sung Tongs[1]_
 * Antony & The Johnsons: _Antony & The Johnsons_
 * August Born: _August Born_
-* William Basinski: _Melancholia_
 * William Basinski: _The River_
 * William Basinski: _Short Waves_
 * William Basinski: _Silent Night_
-* William Basinski: _Variations: A Movement in Chrome Primitive_
 * V/A: _Bis Neun_ (Areal)
 * V/A: _Bis Neunzehn_ (Areal)
 * The Backdoor Men: _Sodra Esplanaden #4_
@@ -18,7 +15,6 @@
 * Black Flag: _My War_
 * Black Ice: _Terrible Birds_
 * Black Mountain: _Black Mountain[1]_
-* Blight: _Detroit_
 * Bolt Thrower: _For Victory_
 * Bolt Thrower: _Honour Valour Pride[1]_
 * Bolt Thrower: _Mercenary[1]_
@@ -31,6 +27,7 @@
 * V/A: _Cargo, Vol. 2_
 * Neko Case: _Fox Confessor Brings the Flood[1]_
 * Cave In: _Perfect Pitch Black[1]_
+* Cavity: _Miscellaneous Recollections 92-97_
 * Ciccone Youth: _The Whitey Album[1]_
 * Circle: _Forest_
 * Circle: _Empire_
@@ -48,15 +45,12 @@
 * Flux Information Sciences: _Private / Public[1]_
 * Foetus: _Love[1]_
 * V/A: _From the Entrails to the Dirt_
-* Funeral Mist: _Devilry_
 * Funeral Mist: _Salvation_
 * Alistair Galbraith / Matt De Gennaro: _From The Dark (South Island)_
-* The Gault: _Even as All Before Us_
 * Michael Gira: _I Am Singing To You From My Room_
 * Michael Gira: _Living '02_
 * Michael Gira: _Solo Recordings At Home_
 * Gregor Samsa: _55:12_
-* Growing: _Color Wheel_
 * V/A: _Hacienda Classics_
 * The Hafler Trio: _Exactly As I Am_
 * V/A: _Heavy Meckle_
@@ -85,6 +79,7 @@
 * Miss Kittin: _LFO Remixes Kittin[1]_
 * New Pornographers: _Twin Cinema[1]_
 * V/A: _NoisyMotions_
+* Open Hand: _The Dream_
 * Pink Mountaintops: _Axis of Evol[1]_
 * Polvo: _Exploded Drawing_
 * Polvo: _Today's Active Lifestyles_
@@ -103,7 +98,6 @@
 * Scissorfight: _Balls Deep_
 * Scissorfight: _New Hampshire_
 * Scissorfight: _Piscataqua_
-* Scissorfight: _Potential New Agent for Unconventional Warfare_
 * Scissorfight: _Victory Over Horseshit_
 * Screamers: _In A Better World_
 * Setherial: _From the Ancient Ruins_
@@ -111,18 +105,19 @@
 * 16-17: _Early Recordings_
 * Skeletons and the Girl-Faced Boys: _Git[1]_
 * Sparks: _Hello Young Lovers[1]_
-* Bridget St John: _Ask Me No Questions_
-* S.V.E.S.T.: Urfaust
+* S.V.E.S.T.: _Urfaust_
 * Swans: _Holy Money_
 * 'Til Tuesday: _Welcome Home[1]_
 * The Tomorrow People: _Original Television Music_
 * Triple R: _Play_
-* Troum: _To A Child Dancing In The Wind_
 * The Vocokesh: _Through The Smoke[1]_
 * Voivod: _Nothingface[1]_
 * The Wardrobe: _Cups in the Cupboard_
 * Chris Watson: _Outside the Circle of Fire_
 * Yourcodenameis:Milo: _Ignoto_
+
+PENDING AQUARIUS SPECIAL ORDERS:
+   * Jonathan Coleclough & murmer: _Husk (limited edition 2)_
 
 2005/08/10 Amoeba Purchases:
    * Gehenna: _WW_
@@ -247,7 +242,7 @@
    * Slowdive: _Just for a Day reissue_
    * Slowdive: _Souvlaki reissue_
    * XXL: _¡Ciautistico!_
-2006/01/15 Records on the Hill purchases:
+2006/01/15 Albums on the Hill purchases:
    * As Divine Grace: _Lumo_
    * Audio Learning Center: _Cope Park_
    * LCD Soundsystem: _LCD Soundsystem_
@@ -319,6 +314,8 @@
    * Velvet Cacoon: _Northsuite_
    * Wolves in the Throne Room: _Diadem of 12 Stars_
    * Xasthur: _Nocturnal Poisoning_
+
+
 2006/05/01 show purchase:
    * Art Brut: _Bang Bang Rock & Roll_
 2006/05/20 Aquarius purchases:
@@ -361,12 +358,91 @@
    * Colin Potter & The Hafler Trio: _A Pressed on Sandwich_
    * Rosetta: _The Galilean Satellites_
    * Bridget St. John: _Ask Me No Questions_
-PENDING AQUARIUS SPECIAL ORDERS:
-   * Keith Berry: _A Strange Feather_
+2006/06/05 "bleep":http://www.bleep.com/ purchases
+   * RAC: _Double Jointed_
+   * RAC: _Structures_
+2006/06/16 Nurse With Wound show purchases:
+   * Andrew Liles: _Tubercular Bells (Somnambulence To Dream General)_
+   * Nurse With Wound & Cyclobe: _Paraparaparallelogrammatica: Angry Eelectric Finger 2_
+   * Nurse With Wound: _Rat Tapes 1_
+   * Nurse With Wound: _Shipwreck Radio: Final Broadcasts_
+   * Colin Potter: _It was like this..._
+2006/07/01 Aquarius purchases:
+   * Blight: _Detroit: The Dream is Dead_
    * Clockcleaner: _Nevermind_
-   * Jonathan Coleclough & murmer: _Husk (limited edition 2)_
-   * Knut: _Challenger_
+   * The Hafler Trio: _3 Eggs._
+   * Hjarnidaudi: _Pain:Noise:March_
+   * V/A: _Crushing the Holy Trinity_
+   * Monolake: Plumbicon Versions
+   * Marissa Nadler: _Australian Tour 2006_
    * Scissorfight: _Mantrapping for Sport and Profit_
    * Scissorfight: _Jaggernaut_
+   * Six Organs of Admittance: _The Sun Awakens_
    * Snowblood: _Being and Becoming_
-   * Troum: _To a Child Dancing in the Wind_
+   * This Heat: _Out of Cold Storage_
+   ** _This Heat_
+   ** _Deceit_
+   ** _Health and Efficiency_
+   ** _Made Available_
+   ** _Repeat_
+   ** _Live 80/81_
+2006/07/08 Aquarius purchases:
+   * The Angelic Process: _The Angelic Process_
+   * Jonathan Coleclough & murmer: _Husk_
+   * Cult of Luna: _Somewhere Along the Highway_
+   * Lisa Germano: _In the Maybe World_
+   * Gorgoroth: _Ad Majorem Sathanas Gloriam_
+   * Mare: _Mare_
+   * Space Needle: _Recordings 1994-1997_
+   * 324: _Rebelgrind_
+2006/07/15 Courtney gift:
+   * agf: _Westernization Completed_
+2006/07/22 Albums on the Hill purchase:
+   * The Standard: _Albatross_
+2006/08/18 Aquarius purchases:
+   * Martyn Bates / Troum: _To a Child Dancing in the Wind_
+   * Keith Berry: A Strange Feather
+   * Boris: _Dronevil -final-_
+   * Comets on Fire: _Avatar_
+   * Daughters: _Hell Songs_
+   * The Gault: _Even As All Before Us_
+   * Hammers of Misfortune: _The Bastard_
+   * Scritti Politti: _White Bread Black Beer_
+   * Solar Anus: _Skull Alcoholic: The Complete Solar Anus_
+   * Striborg: _Embittered Darkness / Isle de Morts_
+   * V/A: _Total 7_
+2006/08/18 Amoeba purchases:
+   * AFX: _Chosen Lords_
+   * William Basinski: _Melancholia_
+   * William Basinski: _Variations: A Movement In Chrome Primitive_
+   * Boxcutter: _Oneiric_
+   * Burial: _Burial_
+   * [the] caseworker: _When I Was a Young King_
+   * Dr. Delay: _Psycrunk_
+   * V/A: _Dubstep Allstars Vol. 04_
+   * Electric Wizard: _Dopethrone_
+   * Funeral Mist: _Devilry_
+   * Growing: _Color Wheel_
+   * Scissorfight: _Potential New Agent for Unconventional Warfare_
+   * Soilent Green: _Sewn Mouth Secrets_
+   * Vex'd: _Degenerate_
+   * Luke Vibert: _Amen Andrews vs. Spac Hand Luke_
+2006/10/05 Aquarius purchases:
+   * Bauhaus: _In the Flat Field_
+   * Black Boned Angel: _Supereclipse_
+   * Andrew Chalk: _East of the Sun_
+   * Andrew Chalk: _The River That Flows Into the Sands_
+   * Circle: _Forest_
+   * Circle: _Pori_
+   * Circle: _Sunrise_
+   * Colleen: _Colleen et les Boîtes à Musique_
+   * Jim Haynes: _Telegraphy by the Sea_
+   * Daniel Higgs: _Interdimensional Song-Seamstress_
+   * Isis + Aereogramme: _In the Fishtank_
+   * Knut: _Challenger_
+   * BJ Nilsen & Stilluppsteypa: _Drykkjuvísur Óhljódanna_
+   * Parenthetical Girls: _Safe as Houses_
+   * Protect the Hero: _Kezia_
+   * Uusitalo: _Tulenkantaja_
+   * Woven Hand: _Mosaic_
+   * Xasthur: _Subliminal Genocide_
