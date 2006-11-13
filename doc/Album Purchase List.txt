@@ -1,5 +1,6 @@
 * Agoraphobic Nosebleed: _Bestial Machinery_
 * Alarm Will Sound: _Acoustica: Alarm Will Sound Performs Aphex Twin[1]_
+* Anaal Nathrakh: _Eschaton_
 * Animal Collective: _Sung Tongs[1]_
 * Antony & The Johnsons: _Antony & The Johnsons_
 * August Born: _August Born_
@@ -20,6 +21,7 @@
 * Bolt Thrower: _Mercenary[1]_
 * Bolt Thrower: _Warmaster_
 * _The Body Lovers / The Body Haters_ (website version)
+* Borknagar: _Origin_
 * Glenn Branca: _Indeterminate Activity of Resultant..._
 * Built to Spill: _You in Reverse[1]_
 * Can: _Ege Bamyasi_
@@ -29,9 +31,7 @@
 * Cave In: _Perfect Pitch Black[1]_
 * Cavity: _Miscellaneous Recollections 92-97_
 * Ciccone Youth: _The Whitey Album[1]_
-* Circle: _Forest_
 * Circle: _Empire_
-* Circle: _Tulikoira_
 * Cluster & Eno: _Cluster & Eno_
 * Coelacanth & Keith Evans: _Wrack Light in Copper Ruin_
 * Demon Fuzz: _Afreaka!_
@@ -45,6 +45,8 @@
 * Flux Information Sciences: _Private / Public[1]_
 * Foetus: _Love[1]_
 * V/A: _From the Entrails to the Dirt_
+* Fucked Up: _Epics In Minutes_
+* Fucked Up: _Hidden World_
 * Funeral Mist: _Salvation_
 * Alistair Galbraith / Matt De Gennaro: _From The Dark (South Island)_
 * Michael Gira: _I Am Singing To You From My Room_
@@ -59,6 +61,7 @@
 * In the Woods...: _Three by Seven on a Pilgrimage_
 * In the Woods...: _HEart of the Ages_
 * Io: _The Willow Snag_
+* Isis: _In the Absence of Truth_
 * Jasper TX: _I'll Be Long Gone Before My Light Reaches You_
 * The Juan Maclean: _Less Than Human[1]_
 * Kano: _Home Sweet Home_
@@ -66,6 +69,7 @@
 * Kill the Thrill: _Dig_
 * Kill the Thrill: _Low_
 * V/A: _Kompakt Total 6_
+* Kylesa: _Time Will Fuse Its Worth_
 * Lawrence: _Lawrence_
 * Lawrence: _The Absence of Blight_
 * Lawrence: _The Night Will Last Forever_
@@ -107,6 +111,7 @@
 * Sparks: _Hello Young Lovers[1]_
 * S.V.E.S.T.: _Urfaust_
 * Swans: _Holy Money_
+* Swarm of the Lotus: _The Sirens of Silence_
 * 'Til Tuesday: _Welcome Home[1]_
 * The Tomorrow People: _Original Television Music_
 * Triple R: _Play_
@@ -115,9 +120,6 @@
 * The Wardrobe: _Cups in the Cupboard_
 * Chris Watson: _Outside the Circle of Fire_
 * Yourcodenameis:Milo: _Ignoto_
-
-PENDING AQUARIUS SPECIAL ORDERS:
-   * Jonathan Coleclough & murmer: _Husk (limited edition 2)_
 
 2005/08/10 Amoeba Purchases:
    * Gehenna: _WW_
@@ -446,3 +448,8 @@ PENDING AQUARIUS SPECIAL ORDERS:
    * Uusitalo: _Tulenkantaja_
    * Woven Hand: _Mosaic_
    * Xasthur: _Subliminal Genocide_
+2006/10/18 show purchases:
+   * Boris: _Absolutego+_
+   * Boris: _Heavy Rocks_
+   * Boris: _Mabuta No Ura_
+   * Doomriders: _Black Thunder_
