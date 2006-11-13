@@ -37,6 +37,26 @@ module Euterpe
         path = MediaPath.most_recent_media_path
         path.track.disc.album if path
       end
+      
+      def Album.pending_count
+        count_by_sql('SELECT COUNT(*) FROM albums')
+      end
+      
+      def reconstituted_name
+        reconstituted = ''
+        reconstituted << (name || '<untitled>')
+        reconstituted << ': ' << subtitle if subtitle && '' != subtitle
+        reconstituted << ' [' << version_name << ']' if version_name && '' != version_name
+
+        reconstituted
+      end
+
+      def display_name
+        formatted_name = "#{artist_name}: #{reconstituted_name}"
+        formatted_name << " (#{genre.name})" if genre && '' != genre.name
+        formatted_name << " [#{release_date}]" if release_date && '' != release_date
+        formatted_name
+      end
     end
   end
 end

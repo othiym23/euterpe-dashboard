@@ -13,6 +13,10 @@ module Euterpe
       def file_changed?
         media_path.changed?
       end
+      
+      def Track.pending_count
+        count_by_sql('SELECT COUNT(*) FROM tracks')
+      end
     end
   end
 end

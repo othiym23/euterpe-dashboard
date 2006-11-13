@@ -11,6 +11,10 @@ module Euterpe
       def changed?
         file_updated_on != File.stat(path).mtime
       end
+      
+      def MediaPath.pending_non_mp3_count
+        count_by_sql("SELECT COUNT(*) FROM media_paths WHERE path NOT LIKE '%.mp3'")
+      end
     end
   end
 end
